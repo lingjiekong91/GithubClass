@@ -6,7 +6,7 @@
 #
 #    http://shiny.rstudio.com/
 #
-#make a test
+
 library(shiny)
 library(bootstrap)
 library(jpeg)

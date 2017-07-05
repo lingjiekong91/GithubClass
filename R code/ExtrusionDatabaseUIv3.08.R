@@ -5,7 +5,7 @@
 # Find out more about building applications with Shiny here:
 #
 #    http://shiny.rstudio.com/
-#Change the master branch directly
+#Change the master branch
 
 library(shiny)
 library(bootstrap)

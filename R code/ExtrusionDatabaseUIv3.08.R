@@ -13,7 +13,7 @@ library(jpeg)
 library(ggplot2)
 library(DT)
 
-#B made a test
+
 
 #Creating variables across all sessions
 path <- "C:/Users/correaf/Downloads/PPS_document_contents/ListOfSheets/GTE"
